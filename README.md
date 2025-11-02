@@ -1,12 +1,12 @@
-# DevOps-Hackathon-Toronto-Team-12
+# DevOps Nexus
 Canada DevOps Community of Practice - Toronto Hackathon Series - Team 12 
 
-Project Name - TBD
+Project Name - DevOps Nexus
 
 Team Mentor -
 
 Participant Names - 
 
-     Team Lead - 
-     Team Members - Fahad, Jincheng, Jianxin, Yihui
+     Team Lead - Jincheng Wang
+     Team Members - Fahad, Jianxin, Yihui
 
